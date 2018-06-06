@@ -34,7 +34,7 @@ dependencies {
     implementation 'com.android.support:palette-v7:27.1.1'
     implementation 'com.android.support:recyclerview-v7:27.1.1'
     implementation 'com.android.support:design:27.1.1'
-
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 
 
     annotationProcessor 'com.github.bumptech.glide:compiler:4.7.1'
